@@ -15,16 +15,13 @@
 </div>
 ---
 
-### :woman_technologist: About Me :
-I am a student at VIT chennai as a undergrad student pursuring Btech in Computer science with specilization in Artificial inteligence and machine learning.
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### :woman_technologist: About me:
+I am a student at VIT Chennai as an undergrad student pursuing a Btech in Computer Science with a specialization in Artificial Intelligence and Machine Learning.
+- 🔭 I’m currently working on a project related to medical image analysis
+- 🌱 I’m currently learning 3D full Stack Development
+- 🤔 I’m looking for suggestion and ideas on latest technologies coming up.
+- 📫 How to reach me: sonasherin0@gmail.com
+- 😄 Pronouns: She/her
 
 <!--
 **Fathimasonasherin/FathimaSonaSherin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
