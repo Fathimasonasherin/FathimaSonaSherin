@@ -23,7 +23,7 @@ I am a student at VIT Chennai as an undergrad student pursuing a Btech in Comput
 - 📫 How to reach me: sonasherin0@gmail.com
 - 😄 Pronouns: She/her
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/FathimaSonaSherin/github-readme-stats)
+
 <!--
 **Fathimasonasherin/FathimaSonaSherin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
