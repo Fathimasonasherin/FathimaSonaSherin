@@ -16,7 +16,7 @@
 ---
 
 ### :woman_technologist: About me:
-I am a student at VIT Chennai as an undergrad student pursuing a Btech in Computer Science with a specialization in Artificial Intelligence and Machine Learning.
+I am an undergrad student at VIT Chennai pursuing a Btech in Computer Science with a specialisation in Artificial Intelligence and Machine Learning.
 - 🔭 I’m currently working on a project related to medical image analysis
 - 🌱 I’m currently learning 3D full Stack Development
 - 🤔 I’m looking for suggestion and ideas on latest technologies coming up.
